@@ -15,7 +15,7 @@ and should be placed in the data folder.
 
 Raw images are not strictly necessary for this code but you may want to play with them yourselves. They can be downloaded from:
 https://drive.google.com/file/d/1bdBqmD9plsM2uLHAmon1n45mIZNCROrg/view?usp=sharing
-and should be placed in the image folder.
+and should be placed in the images folder.
 
 Have fun!
 
