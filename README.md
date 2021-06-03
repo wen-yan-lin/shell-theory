@@ -16,7 +16,6 @@ Raw images are not strictly necessary for this code but you may want to play wit
 https://drive.google.com/file/d/1bdBqmD9plsM2uLHAmon1n45mIZNCROrg/view?usp=sharing
 
 Have fun!
-Lin Wen-Yan, Daniel
 
 By the way, if you found the code useful, could you please cite:
 
