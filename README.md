@@ -1,10 +1,11 @@
-Shell theory hypothesizes the existence of naturally occurring class boundaries that are defined in terms of the mean of variance of each class.
+Shell theory makes three predictions: 
+1) There exist naturally occurring class boundaries that are defined in terms of the mean of variance of each class;
+2) The boundaries can be discovered (and classification achieved) by simply estimating the class mean of shell-normalized instances;
+3) Results can be enhanced with shell-normalization, which involves subtracting the mean of the test-data from each instance; then scaling the instance to be a unit-vector.
 
-Shell theory further suggests that these boundaries can be discovered (and hence classification achieved) by simply estimating the class mean of shell-normalized instances.
+Shell-normalization differs from “classical normalization”  in its use of test-mean, rather than training-mean for normalization. This greatly affects the results in problems like one-class learning and anomaly detection. 
 
-Shell-normalization is achieved by subtracting the mean of the test-data from each instance; then scaling the instance to be a unit-vector; this differs from “classical normalization” which is with respect to the mean of the training-data.
-
-We show how shell theory can be employed on one-class svm and anomaly detection, with comparisons provided against one-class svm. 
+In this code, we demonstrate shell theory on both one-class svm and anomaly detection, with comparisons provided against one-class svm; comparisons with other algorithms can be found in the main-paper [1].
 
 Our experiments indicates that shell learning provides almost perfect results on such very difficult problems. 
 
@@ -18,4 +19,5 @@ Have fun!
 Lin Wen-Yan, Daniel
 
 By the way, if you found the code useful, could you please cite:
-Lin, Daniel, et al. "Shell Theory: A Statistical Model of Reality." IEEE Transactions on Pattern Analysis and Machine Intelligence (2021).
+
+[1] Lin, Daniel, et al. "Shell Theory: A Statistical Model of Reality." IEEE Transactions on Pattern Analysis and Machine Intelligence (2021).
