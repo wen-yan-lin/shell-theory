@@ -5,15 +5,17 @@ Shell theory makes three predictions:
 
 Shell-normalization differs from “classical normalization”  in its use of test-mean, rather than training-mean for normalization. This greatly affects the results in problems like one-class learning and anomaly detection. 
 
-In this code, we demonstrate shell theory on both one-class svm and anomaly detection, with comparisons provided against one-class svm; comparisons with other algorithms can be found in the main-paper [1].
+In this code, we demonstrate shell theory on both one-class svm and anomaly detection, with comparisons provided against one-class svm; comparisons with other algorithms can be found in the main-paper [1], with their code
 
 Our experiments indicates that shell learning provides almost perfect results on such very difficult problems. 
 
-Resnet50 features used are available at:
+Resnet50 features used are available at :
 https://drive.google.com/file/d/1QZtdt5Nh_rXAtgP6CI0alOYwb6g8Z019/view?usp=sharing
+and should be placed in the data folder.
 
 Raw images are not strictly necessary for this code but you may want to play with them yourselves. They can be downloaded from:
 https://drive.google.com/file/d/1bdBqmD9plsM2uLHAmon1n45mIZNCROrg/view?usp=sharing
+and should be placed in the image folder.
 
 Have fun!
 
