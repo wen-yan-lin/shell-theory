@@ -5,7 +5,7 @@ Shell theory makes three predictions:
 
 Shell-normalization differs from “classical normalization”  in its use of test-mean, rather than training-mean for normalization. This greatly affects the results in problems like one-class learning and anomaly detection. 
 
-In this code, we demonstrate shell theory on both one-class svm and anomaly detection, with comparisons provided against one-class svm; comparisons with other algorithms can be found in the main-paper [1], with their code
+In this code, we demonstrate shell theory on both one-class learning and anomaly detection, with comparisons provided against one-class svm; comparison with other algorithms can be found in the main-paper [1]; their code is included above.
 
 Our experiments indicates that shell learning provides almost perfect results on such very difficult problems. 
 
@@ -26,13 +26,9 @@ By the way, if you found the code useful, could you please cite:
 
 
 @article{lin2021shell,
-
-  title={Shell Theory: A Statistical Model of Reality},
-  author={Lin, Wen-Yan and Liu, Siying and Li, Hongdong and Cheung, Ngai-Man and Ren, Changhao and Matsushita, Yasuyuki},
-  
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  
-  year={2021},
-  
-  publisher={IEEE}
+title={Shell Theory: A Statistical Model of Reality},
+author={Lin, Wen-Yan and Liu, Siying and Li, Hongdong and Cheung, Ngai-Man and Ren, Changhao and Matsushita, Yasuyuki},
+journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
+year={2021},
+publisher={IEEE}
 }
