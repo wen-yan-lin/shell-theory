@@ -23,15 +23,11 @@ By the way, if you found the code useful, could you please cite:
 
 [1] Lin, Wen-Yan, et al. "Shell Theory: A Statistical Model of Reality." IEEE Transactions on Pattern Analysis and Machine Intelligence (2021).
 
-@article{lin2021shell,
-title={Shell Theory: A Statistical Model of Reality},
-author={Lin, Wen-Yan and Liu, Siying and Li, Hongdong and Cheung, Ngai-Man and Ren, Changhao and Matsushita, Yasuyuki},
 
 
 @article{lin2021shell,
 
   title={Shell Theory: A Statistical Model of Reality},
-  
   author={Lin, Wen-Yan and Liu, Siying and Li, Hongdong and Cheung, Ngai-Man and Ren, Changhao and Matsushita, Yasuyuki},
   
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
