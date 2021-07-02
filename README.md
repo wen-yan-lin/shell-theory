@@ -24,7 +24,6 @@ By the way, if you found the code useful, could you please cite:
 [1] Lin, Wen-Yan, et al. "Shell Theory: A Statistical Model of Reality." IEEE Transactions on Pattern Analysis and Machine Intelligence (2021).
 
 @ARTICLE{9444188,
-
   author={Lin, Wen-Yan and Liu, Siying and Ren, Changhao and Cheung, Ngai-Man and Li, Hongdong and Matsushita, Yasuyuki},
 
   journal={IEEE Transactions on Pattern Analysis and Machine Intelligence}, 
